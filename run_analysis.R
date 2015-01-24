@@ -1,6 +1,6 @@
 # 1) Merges the training and the test sets to create one data set.
 # set the working directory where data was extracted
-setwd("/home/lucas/LUCAS/trabajo/doctorado/cursos/Getting and cleaning data/quizzes/proyect")
+#setwd("/home/lucas/LUCAS/trabajo/doctorado/cursos/Getting and cleaning data/quizzes/proyect")
 
 # a) get the data from all variables from test
 Xtest <- read.table("UCI HAR Dataset/test/X_test.txt")
